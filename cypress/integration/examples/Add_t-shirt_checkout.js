@@ -1,6 +1,6 @@
 //cypress - Spec
 
-describe('My First Cypress Test', function () {
+describe('Login, Add t-shirt, checkout, logout', function () {
     it('Visits the automationpractice.com site, logs in and logs out', function () {
         //Visit the Automation Practice Website
         cy.visit("http://automationpractice.com/index.php");
