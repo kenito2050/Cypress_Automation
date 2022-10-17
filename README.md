@@ -32,7 +32,7 @@ or run only (1) Spec File (Test Case)
 
 node_modules\.bin\cypress run --spec "cypress/integration/examples/<name_of_spec_file.js>"
 
-Test Results Output
+# Test Results Output
 
 After Installing Mocha and Mochawesome, run the following command to output to JSON and HTML file using Mochawesome
 
